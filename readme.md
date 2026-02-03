@@ -2,7 +2,7 @@ A full-stack AI-powered medical assistant built with LangChain4j, featuring mult
 
 
 
-![Screenshot 2026-02-03 at 5.19.26 AM](/Users/mmm/Documents/AI_Knowledge_Assistant/ui_image/Screenshot 2026-02-03 at 5.19.26 AM.png)
+![user_interface](/ui_image/user_interface.png)
 
 Built an AI-powered medical assistant using Spring Boot and LangChain4j that supports
 multi-turn conversations, appointment booking, and medical Q&A via Retrieval-Augmented Generation (RAG).
