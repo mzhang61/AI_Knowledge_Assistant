@@ -1,6 +1,8 @@
 A full-stack AI-powered medical assistant built with LangChain4j, featuring multi-model LLM integration, RAG, function calling, persistent chat memory, and local LLM deployment via Ollama.**
 
-![image-20260126111239956](/Users/mmm/Library/Application Support/typora-user-images/image-20260126111239956.png)
+
+
+![Screenshot 2026-02-03 at 5.19.26 AM](/Users/mmm/Documents/AI_Knowledge_Assistant/ui_image/Screenshot 2026-02-03 at 5.19.26 AM.png)
 
 Built an AI-powered medical assistant using Spring Boot and LangChain4j that supports
 multi-turn conversations, appointment booking, and medical Q&A via Retrieval-Augmented Generation (RAG).
@@ -54,7 +56,7 @@ LLMs (Qwen / DeepSeek / Ollama Local Models)
 - Reduced hallucination risk by forcing the LLM to answer strictly based on retrieved medical context.
 - Supported hybrid architecture combining **local LLM inference** with **cloud-based embedding services**.
 
-### **1️⃣ 为什么要用 RAG？**
+### **1️⃣ Why use RAG？**
 
 > To ground LLM responses in trusted medical knowledge and avoid hallucinations.
 
